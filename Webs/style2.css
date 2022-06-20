@@ -1,0 +1,26 @@
+body{
+  background-color: lightgrey;
+  font-family:Arial, Helvetica, sans-serif;
+  color:#fff;
+  font-size: 20px;
+  line-height: 2em;
+  margin:20px;
+
+}
+h1{
+  background-color: #333;
+  margin: auto;
+}
+
+.image{
+  text-align: center;
+}
+
+.vid{
+  text-align: center;
+}
+
+.art{
+  color:black;
+
+}
